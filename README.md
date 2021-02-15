@@ -4,6 +4,29 @@ This repository contains a list of research papers devoted to Machine Learning s
 
 ## Deep Learning CT
 
+### **2019**
+
+#### Optimal deep learning model for classification of lung cancer on CT images [[Paper](https://www.sciencedirect.com/science/article/pii/S0167739X18317011?casa_token=F9okaHdgmXwAAAAA:I3rid9IhSyTB9HftFuaRfixkg6bF7akjdlwH9ZJpAWwK-DZ4qAvbL7fJwSTiI0AcwrO6-9tJM4A)]
+
+#### Deep Learning Predicts Lung Cancer Treatment Response from Serial Medical Imaging [[Paper](https://clincancerres.aacrjournals.org/content/25/11/3266.abstract)]
+
+#### End-to-end lung cancer screening with three-dimensional deep learning on low-dose chest computed tomography [[Paper](https://www.nature.com/articles/s41591-019-0447-x?smid=nytcore-ios-share)] [[Code](https://www.nature.com/articles/s41591-019-0447-x#Sec2)]
+
+#### Lung cancer detection from CT image using improved profuse clustering and deep learning instantaneously trained neural networks [[Paper](https://www.sciencedirect.com/science/article/pii/S0263224119304439?casa_token=KShGHILwW2kAAAAA:E8oKNaz07jfAeVVj2vtDzpjEqmNky8xMuscJV9R73cDP6K0ffOUd970OCBu5eauFwSBQ8sJA0UY)]
+
+#### A 3D Probabilistic Deep Learning System for Detection and Diagnosis of Lung Cancer Using Low-Dose CT Scans [[Paper](https://ieeexplore.ieee.org/abstract/document/8886352)]
+
+#### Prediction of lung cancer risk at follow-up screening with low-dose CT: a training and validation study of a deep learning method [[Paper](https://www.sciencedirect.com/science/article/pii/S2589750019301591)]
+
+#### Lung Cancer Detection Based on CT Scan Images by Using Deep Transfer Learning [[Paper](https://www.researchgate.net/profile/Hemantha_Kumar_Kalluri/publication/336879291_Lung_Cancer_Detection_Based_on_CT_Scan_Images_by_Using_Deep_Transfer_Learning/links/5db85ff34585151435d15c37/Lung-Cancer-Detection-Based-on-CT-Scan-Images-by-Using-Deep-Transfer-Learning.pdf)]
+
+#### Toward an Expert Level of Lung Cancer Detection and Classification Using a Deep Convolutional Neural Network [[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6738288/)]
+
+#### Automated detection and classification for early stage lung cancer on CT images using deep learning [[Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10995/109950S/Automated-detection-and-classification-for-early-stage-lung-cancer-on/10.1117/12.2520333.short?SSO=1)]
+
+
+
+
 ### **2018**
 
 #### Lung Nodule Classification via Deep Transfer Learning in CT Lung Images [[Paper](https://ieeexplore.ieee.org/abstract/document/8417245?casa_token=yBnNR7rDJXQAAAAA:AWCoT5pGmDiu85vV21DgRCIqq2ugAIM-JEviMkxUf5EGgMgnqKbhkTxariqxCeZaxKJhjFCWSLU)]
@@ -15,6 +38,18 @@ This repository contains a list of research papers devoted to Machine Learning s
 #### A Deep Convolutional Neural Network for Lung Cancer Diagnostic [[Paper](https://arxiv.org/abs/1804.08170)]
 
 #### 3D deep learning for detecting pulmonary nodules in CT scans [[Paper](https://academic.oup.com/jamia/article/25/10/1301/5078126?login=true)][[Cpde](https://github.com/rossgritz/cad17)]
+
+
+#### Using YOLO based deep learning network for real time detection and localization of lung nodules from low dose CT scans [[Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10575/105751I/Using-YOLO-based-deep-learning-network-for-real-time-detection/10.1117/12.2293699.short)]
+
+
+#### A Generalized Deep Learning-Based Diagnostic System for Early Diagnosis of Various Types of Pulmonary Nodules [[Paper](https://journals.sagepub.com/doi/full/10.1177/1533033818798800)]
+
+#### Computer-aided diagnosis of lung nodule classification between benign nodule, primary lung cancer, and metastatic lung cancer at different image size using deep convolutional neural network with transfer learning [[Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0200721)]
+
+
+
+
 
 ### **2017**
 
